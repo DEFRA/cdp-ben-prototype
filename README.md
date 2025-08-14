@@ -34,7 +34,7 @@ the [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend).
 Install [Node.js](http://nodejs.org/) `>= v22` and [npm](https://nodejs.org/) `>= v11`. You will find it easier to use
 the Node Version Manager [nvm](https://github.com/creationix/nvm)
 
-To use the correct version of Node.js for this application, via nvm:
+To use the correct version of Node.js for this application, via nvm
 
 ```bash
 cd cdp-ben-prototype
